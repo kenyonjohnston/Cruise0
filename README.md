@@ -9,6 +9,6 @@ During that rebuild, we want to drive growth in the app by enabling social login
 Customer Branding - the marketing team wants to introduce a Cruise0 Branded log in experience to the app.
 
 # Steps to run app
-1. run git pull
+1. run git clone
 2. cd into cruise0 folder
 3. run yarn start or npm start
